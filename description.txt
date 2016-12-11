@@ -1,0 +1,4 @@
+<- Minetest_Vanilla_Plus ->
+Minetest Default Textures Restyling
+
+
