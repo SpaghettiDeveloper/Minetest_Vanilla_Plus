@@ -1,5 +1,5 @@
 # Minetest_Vanilla_Plus
 ###### Textures pack vanilla improved.
 <br>
-Editing textures, inspired by Minecraft textures, but completely different.
+Textures pack for the improvement of wood, inspired by Minecraft! Textures completely redesigned!
 
